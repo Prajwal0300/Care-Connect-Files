@@ -1,0 +1,6 @@
+streamlit run "C:\Users\prajw\OneDrive\Desktop\CareConnect\CareConnectApk.py"
+
+
+
+
+streamlit run "C:\Users\prajw\OneDrive\Desktop\CareConnect\sarco\CareConnectApk.py"
